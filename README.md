@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+- 👯 I am a Web Developer with experience in building and optimizing modern web-based applications. I have a strong passion for web development, including Frontend and Backend, and enjoy working with technologies such as JavaScript, React, Node.js, and database management.
+- 🌱 One of the contributions I am most proud of is building a simple website with my classmates, designed to help those who are unfamiliar with web development understand it better. The context was to inspire my peers to discover and nurture their talents in web development.
+- 💬 Ask Questions Clearly: When seeking help, provide detailed descriptions of your issue, including code, error messages, and what you’ve tried so far.
+- 😄 Respect Others' Time and Effort: Make sure to search for solutions on your own, such as reading documentation or exploring forums, before asking for assistance.
+- 📫 Give Feedback: If someone helps you, express gratitude and let them know whether the provided solution worked. This helps build positive relationships within the community.
 <!--
 **Armu14/Armu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
